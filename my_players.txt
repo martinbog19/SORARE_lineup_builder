@@ -21,7 +21,7 @@ Jerami Grant
 Willy Hernangómez
 Darius Bazley
 Norman Powell
-Neemias Queta
+Danuel House Jr.
 Keldon Johnson
 Reggie Jackson
 Maxi Kleber
@@ -41,7 +41,7 @@ Immanuel Quickley
 Paul George
 Luka Dončić
 Quentin Grimes
-Devin Booker
+James Harden
 Terrence Ross
 Ousmane Dieng
 James Bouknight
@@ -58,7 +58,7 @@ Nic Claxton
 George Hill
 Jaxson Hayes
 Damian Jones
-Furkan Korkmaz
+Admiral Schofield
 Bismack Biyombo
 KZ Okpala
 Trent Forrest
@@ -66,3 +66,12 @@ Jonas Valančiūnas
 Myles Turner
 Khris Middleton
 Kristaps Porziņģis
+Kawhi Leonard
+Tyrese Haliburton
+Tyler Herro
+Boban Marjanović
+Rudy Gobert
+Steven Adams
+Clint Capela
+Darius Garland
+Mitchell Robinson
