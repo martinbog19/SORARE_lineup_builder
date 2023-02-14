@@ -30,7 +30,7 @@ Naz Reid
 Jarred Vanderbilt
 Fred VanVleet
 Collin Sexton
-Reggie Jackson
+Naji Marshall
 Keldon Johnson
 Norman Powell
 Darius Bazley
@@ -89,3 +89,6 @@ CJ McCollum
 Evan Mobley
 Josh Giddey
 Anthony Edwards
+Wendell Carter Jr.
+Derrick White
+Dejounte Murray
